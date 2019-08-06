@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e575d24-5775-4a8b-8d56-ba13ed9ee2ac" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
